@@ -1,6 +1,7 @@
 package Buscaminas;
 import java.util.*;
 
+
 public class InOut {
 
     private int x; 
